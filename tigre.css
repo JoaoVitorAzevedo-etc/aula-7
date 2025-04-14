@@ -12,11 +12,11 @@ body {
     margin-top: 10px;
     font-size: 1em;
     cursor: pointer;
-    background-color: #4CAF50;
-    color: white;
+    background-color: #e08d0f;
+    color: rgb(202, 26, 26);
     border: none;
     border-radius: 5px;
 }
 .button:hover {
-    background-color: #45a049;
+    background-color: #2f1cd3;
 }
